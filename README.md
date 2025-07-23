@@ -44,7 +44,7 @@ Drill-through features to analyze individual employee records
 
 6. Screenshots / Demos
 show what the Dahboard Looks Like-![alt text](https://github.com/riyaverma09/HR-dashboard/blob/main/Screenshot%202025-07-23%20140152.png)
-Example:![Dasboard Preview](https://github.com/riyaverma09/HR-dashboard/blob/main/Screenshot%202025-07-23%20140152.png)
+
 
 
 
